@@ -1,6 +1,6 @@
 class RPF_Config {
 	// TAB by default https://community.bistudio.com/wiki/ListOfKeyCodes
-	interactionKey = 15;
+	interactionKey = 220;
 	
 	// Vehicle trunk size is divided with this
 	trunkDivivde = 300;
