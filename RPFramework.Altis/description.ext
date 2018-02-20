@@ -11,7 +11,7 @@ respawn = "BASE";
 disabledAI = 1;
 author = "RPFramework Team";
 onLoadName = $STR_RPF_CORE_ONLOADNAME;
-onLoadMission = "RPFramework by RPFramework Team";
+onLoadMission = "A life server by Good life";
 respawndelay = 1;
 
 wreckLimit = 5;
