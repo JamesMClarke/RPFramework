@@ -9,8 +9,7 @@ This array is not in the config since it's an in-memory store for inmates
 []call ServerModules_fnc_initJailObjects;
 
 RPF_JailCells = [
-	[[], [16495.787109, 12796.915039, 0.000555992], true],
-	[[], [16504.886719, 12797.0585938, 0.000555992], true]
+	[[], [2871.9,4569.5,0], true]
 ];
 
 diag_log (localize "STR_RPF_JAIL_INIT");

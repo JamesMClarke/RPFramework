@@ -50,7 +50,7 @@ class RPF_shopSystemServerModule {
 		*/
 		class marker1 {
 			name = "vehicleStore";
-			pos[] = {16736.5,12502.5,0.00124454};
+			pos[] = {3776.14,3265.48,0};
 			shape = "ICON";
 			type = "hd_dot";
 			text = $STR_RPF_SHOPSYSTEM_VEHICLESTORE;
@@ -245,6 +245,7 @@ class RPF_shopSystemServerModule {
 			isPoliceStation = 0;
 			isMedicStation = 0;
 		};
+		//Police Shop
 		class shop5 {
 			className = "OfficeTable_01_new_F";
 			pos[] = {16565.4,12729.2,-9.53674e-006};
@@ -297,6 +298,7 @@ class RPF_shopSystemServerModule {
 			isPoliceStation = 1;
 			isMedicStation = 0;
 		};
+		//EMS Shop
 		class shop6 {
 			className = "OfficeTable_01_new_F";
 			pos[] = {16550.2,12764.8,0.00196266};
